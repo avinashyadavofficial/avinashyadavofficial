@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashyadavofficial" alt="avinashyadavofficial" /></a> </p>
+
 
 - 💬 Ask me about **C++,Java,Python,DSA.**
 
