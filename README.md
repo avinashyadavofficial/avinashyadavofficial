@@ -1,8 +1,6 @@
 # Welcome to My GitHub Universe 🌌
 
-
-
-I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and . I'm on a mission to blend innovation and technology to solve real-world problems.
+I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and **Software Engineering**. I'm on a mission to blend innovation and technology to solve real-world problems.
 
 ## 🧑‍💻 About Me
 
@@ -57,8 +55,10 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 ## 🎯 2024 Goals
 
 - **Enhance Open Source Contributions**: Aiming to make meaningful contributions to major open-source projects.
-- **Master Cloud and AI Technologies**: Diving deeper into AWS and advanced AI techniques.
+- **Master Cloud and AI Technologies**: Diving deeper into AWS and advanced AI techniques, with a focus on mastering AI technologies.
 - **Launch a New SaaS Product**: Bringing an innovative idea to life by the end of the year.
+- **Proficient in Data Structures and Algorithms**: Strengthening skills in data structures and algorithms to enhance problem-solving abilities.
+- **Advance Software Development**: Continuing to grow expertise in software development, with a focus on full-stack development.
 
 ## 📬 Let's Connect
 
@@ -70,4 +70,3 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 ---
 
 ✨ *“The only way to do great work is to love what you do.”* - **Steve Jobs**
-
