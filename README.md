@@ -2,6 +2,8 @@
 
 I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and **Software Engineering**. I'm on a mission to blend innovation and technology to solve real-world problems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=avinashyadavofficial&color=brightgreen)
+
 ## 🧑‍💻 About Me
 
 - 🎓 **Student** at SRM Institute of Science and Technology, pursuing B.Tech in Computer Science and Engineering with a specialization in Software Engineering.
@@ -24,7 +26,6 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 
 
 
@@ -54,4 +55,3 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=portfolio&logoColor=white)](https://avinashyadavofficial.github.io/portfolio/)
 
 ---
-
