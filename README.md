@@ -25,22 +25,8 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💡 Projects & Contributions
 
-### 🌟 [Sales Chatbot for Samsung Products](https://github.com/avinashyadavofficial/sales-chatbot)
-*Developed a tailored sales chatbot with a custom Large Language Model (LLM) incorporating domain-specific knowledge to assist users in selecting Samsung products.*
-
-### 🏥 [AGH: Hospital Management System](https://github.com/avinashyadavofficial/agh-hospital-management)
-*An efficient hospital management system with secure logins for patients, doctors, and admins.*
-
-### 📚 [BudgetBook](https://github.com/avinashyadavofficial/budgetbook)
-*An online platform offering affordable daily rentals of eBooks, making reading accessible and cost-effective.*
 
 ## 📊 GitHub Stats
 
@@ -69,4 +55,3 @@ I’m constantly exploring and mastering a wide range of technologies. Here's wh
 
 ---
 
-✨ *“The only way to do great work is to love what you do.”* - **Steve Jobs**
