@@ -2,7 +2,7 @@
 
 
 
-I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and **Open Source Contribution**. I'm on a mission to blend innovation and technology to solve real-world problems.
+I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and . I'm on a mission to blend innovation and technology to solve real-world problems.
 
 ## 🧑‍💻 About Me
 
