@@ -13,7 +13,7 @@ I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 wit
 Check out my [Portfolio](https://avinashyadavofficial.github.io/portfolio/) for a detailed overview of my work and projects.
 
 ### 💼 Resume
-For a more detailed look at my experiences and skills, [here's my resume](https://github.com/avinashyadavofficial/avinash_resume.pdf).
+For a more detailed look at my experiences and skills, [here's my resume](https://drive.google.com/file/d/1BY-e3Q9zob1a2hA2l4gbvhi84ZVraUyN/view?usp=sharing).
 
 ## 🚀 Tech Arsenal
 
