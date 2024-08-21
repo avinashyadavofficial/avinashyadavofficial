@@ -7,7 +7,6 @@ I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 wit
 ## 🧑‍💻 About Me
 
 - 🎓 **Student** at SRM Institute of Science and Technology, pursuing B.Tech in Computer Science and Engineering with a specialization in Software Engineering.
-- 🧠 **AI-ML Virtual Intern** at AWS Academy, where I enhanced my AI/ML proficiency and applied it to practical model development and deployment.
 - 🏅 **Research Intern** at Samsung Prism, where I customized Large Language Models (LLMs) to create an intuitive sales chatbot.
 
 ### 🌐 Portfolio
