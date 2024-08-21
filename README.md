@@ -1,6 +1,6 @@
 # Welcome to My GitHub Universe 🌌
 
-![Header](https://user-images.githubusercontent.com/your-profile-header-image.jpg)
+
 
 I'm **Avinash Yadav**, a passionate **Software Engineer in the making** 🚀 with a deep interest in **AI/ML**, **Full-Stack Development**, and **Open Source Contribution**. I'm on a mission to blend innovation and technology to solve real-world problems.
 
