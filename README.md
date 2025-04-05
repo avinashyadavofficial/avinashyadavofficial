@@ -1,5 +1,5 @@
 
-# 🚀 Avinash Yadav | Software Developer in the Making
+# 🚀 Avinash Yadav 
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashyadavofficial&color=brightgreen)
 
