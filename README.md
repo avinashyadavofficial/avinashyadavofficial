@@ -1,9 +1,9 @@
 
-# 🚀 Avinash Yadav 
+# 🚀 Welcome to my GitHub universe! 
 
 
 
-Welcome to my GitHub universe! 🌌 I’m **Avinash Yadav**, an aspiring **Software Developer** passionate about **Full-Stack Development**, **AI/ML**, and **Problem Solving**. I love crafting elegant solutions with code and continuously evolving my technical expertise. 
+ 🌌 I’m **Avinash Yadav**, an aspiring **Software Developer** passionate about **Full-Stack Development**, **AI/ML**, and **Problem Solving**. I love crafting elegant solutions with code and continuously evolving my technical expertise. 
 
 ---
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashyadavofficial&color=brightgreen)
