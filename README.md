@@ -68,8 +68,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar5840@srmist.edu.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=portfolio&logoColor=white)](https://avinashyadavofficial.github.io/portfolio/)
 
-### Contributions🛠️
-<img src="https://github.com/alokverma18/alokverma18/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinashyadavofficial/avinashyadavofficial/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinashyadavofficial/avinashyadavofficial/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/avinashyadavofficial/avinashyadavofficial/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 ---
