@@ -3,7 +3,7 @@
 
 
 
- 🌌 I’m **Avinash Yadav**, an aspiring **Software Developer** passionate about **Full-Stack Development**, **AI/ML**, and **Problem Solving**. I love crafting elegant solutions with code and continuously evolving my technical expertise. 
+ 🌌 I’m **Avinash Yadav**, an aspiring **Software Developer** passionate about **Full-Stack Development**, and **Problem Solving**. I love crafting elegant solutions with code and continuously evolving my technical expertise. 
 
 ---
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashyadavofficial&color=brightgreen)
@@ -11,13 +11,11 @@
 ## 💡 About Me
 
 - 🎓 **B.Tech CSE (Software Engineering)** @ SRM Institute of Science and Technology
-- 🏅 **Research Intern** @ Samsung Prism (Worked on LLM-based Sales Chatbots)
-- 💡 Passionate about **AI/ML**, **Web Development**, and **Scalable Software Solutions**
-- 💻 Exploring **Cloud Technologies**, **System Design**, and **High-Performance Computing**
+- 🏅 **Research Intern** @ Samsung Prism.
+- 💡 Passionate about **Web Development**, and **Scalable Software Solutions**
 - 🏆 **Scholarship Recipient** (Shiv Nadar Foundation & MGT Socio-Economic Scholarship)
 
-📌 **Check out my [Portfolio](https://avinashyadavofficial.vercel.app/)** to explore my projects!
-📌 **For a detailed look at my experiences and skills, [here's my resume](https://drive.google.com/file/d/1BY-e3Q9zob1a2hA2l4gbvhi84ZVraUyN/view?usp=sharing).**
+
 
 ---
 
@@ -66,7 +64,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashyadav03/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/avinashyadavofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar5840@srmist.edu.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=portfolio&logoColor=white)](https://avinashyadavofficial.github.io/portfolio/)
 
 ## Contributions
 
